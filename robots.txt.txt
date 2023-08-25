@@ -1,0 +1,6 @@
+USER-AGENT:*
+DISSALLOW
+USER-AGENT:yandex
+DISSALLOW
+HOST:www.ecologyworld.com
+SITEMAP:http://www.ecologyworld.com/sitemap.xml
